@@ -4,6 +4,8 @@ import os
 
 client = commands.Bot(command_prefix = '!')
 
+TOKEN = '<REDACTED>'
+
 @client.event
 async def on_ready():
     print('<ADD SOMTHING>')
@@ -15,3 +17,5 @@ async def on_ready():
     aysnc def hello(ctx):
      await ctx.send('HELLO WORLD")
 
+                    
+ client.run(TOKEN)
