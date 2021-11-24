@@ -7,13 +7,12 @@
 
 this is a discord bot made by the community by community i mean people adding commands to the bot or changing the bot by using pull requests
 
-------------------------------------------
 
 # things needed:
 
 a github account , the ability to do pull requests ( look down below if you dont know how ) and hands.. of course
 
---------------------------------------------
+
 
 # RULES: 
 
@@ -25,9 +24,12 @@ delete the code entirely
 
 deface the code 
 
-----------------------------------------------
 
--note: no more pull reguests will be accepted on jan 2 2022
+
+
+
+
+_note: no more pull reguests will be accepted on jan 2 2022
 
 
 
