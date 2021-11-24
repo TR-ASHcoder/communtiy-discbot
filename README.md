@@ -7,12 +7,13 @@
 
 this is a discord bot made by the community by community i mean people adding commands to the bot or changing the bot by using pull requests
 
+_____________________
 
 # things needed:
 
 a github account , the ability to do pull requests ( look down below if you dont know how ) and hands.. of course
 
-
+_________________________
 
 # RULES: 
 
