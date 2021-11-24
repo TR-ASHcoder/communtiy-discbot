@@ -1,4 +1,5 @@
-# ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/90879002/143207078-c7bc2092-99ac-491f-b9c8-8f5bc62cbd6a.gif) discord community bot ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/90879002/143207087-c3ef3d53-59ad-42de-83d6-be8526fa1681.gif)
+# ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/90879002/143209127-8473102b-8c34-46d6-a8b6-b8195492efe7.gif) discord community bot ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/90879002/143209139-1c1ab263-989d-4da3-8bc6-2a14b48df6e6.gif)
+
 
 -----------------------------------
 
