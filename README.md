@@ -35,3 +35,13 @@ _note: no more pull reguests will be accepted on jan 2 2022_
 
 
 
+
+
+
+
+---------------------------------------------------------------------
+# HOW TO DO PULL REQUESTS
+
+
+
+
