@@ -20,7 +20,7 @@ _________________________
 
 you can not:
 
-change the language 
+change the language entirely ( you are allowed to make a new file and coninue with your own language ) 
 
 delete the code entirely 
 
